@@ -1,4 +1,9 @@
-Please run below commands
+# Please run below commands
 
-$npm install
-$npm start
+```shell
+$ npm install
+```
+
+```shell
+$ npm start
+```
